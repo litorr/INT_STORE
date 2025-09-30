@@ -1,0 +1,4 @@
+1 tengo que actualizar el logo a mas resolucion
+2 tengo que mejorar las imagenes de las camisas a mas resolucion
+
+4 en las cards de los productos tengo que colocarles un codigo para yo buscarlos de mejor manera puede ser algo como 001
